@@ -1,0 +1,61 @@
+sampleID	sampleid_orig	sampleid_replaced	plant	inoculum	substrate	ino
+BNC10.1_1	A81	A001	Babushka	1	Chitin	10-1
+BNC10.1_2	A82	A002	Babushka	1	Chitin	10-1
+BNC10.1_3	A83	A003	Babushka	1	Chitin	10-1
+BNC10.3_1	A86	A004	Babushka	3	Chitin	10-3
+BNC10.3_2	A87	A005	Babushka	3	Chitin	10-3
+BNC10.3_3	A88	A006	Babushka	3	Chitin	10-3
+BNC10.5_1	A92	A007	Babushka	5	Chitin	10-5
+BNC10.5_2	A93	A008	Babushka	5	Chitin	10-5
+BNC10.5_3	A94	A009	Babushka	5	Chitin	10-5
+BNC10.7_1	A96	A010	Babushka	7	Chitin	10-7
+BNC10.7_2	A97	A011	Babushka	7	Chitin	10-7
+BNC10.7_3	A99	A012	Babushka	7	Chitin	10-7
+BNC.no_1	A101	A013	Babushka	9	Chitin	no. ino
+BNC.no_2	A104	A014	Babushka	9	Chitin	no. ino
+BNC.no_3	A105	A015	Babushka	9	Chitin	no. ino
+BAF10.1_1	A106	A016	Babushka	1	Mineral fertilizer	10-1
+BAF10.1_2	A107	A017	Babushka	1	Mineral fertilizer	10-1
+BAF10.1_3	A109	A018	Babushka	1	Mineral fertilizer	10-1
+BAF10.3_1	A111	A019	Babushka	3	Mineral fertilizer	10-3
+BAF10.3_2	A113	A020	Babushka	3	Mineral fertilizer	10-3
+BAF10.3_3	A114	A021	Babushka	3	Mineral fertilizer	10-3
+BAF10.5_1	A117	A022	Babushka	5	Mineral fertilizer	10-5
+BAF10.5_2	A119	A023	Babushka	5	Mineral fertilizer	10-5
+BAF10.5_3	A120	A024	Babushka	5	Mineral fertilizer	10-5
+BAF10.7_1	A122	A025	Babushka	7	Mineral fertilizer	10-7
+BAF10.7_2	A123	A026	Babushka	7	Mineral fertilizer	10-7
+BAF10.7_3	A125	A027	Babushka	7	Mineral fertilizer	10-7
+BAF.no_1	A127	A028	Babushka	9	Mineral fertilizer	no. ino
+BAF.no_2	A128	A029	Babushka	9	Mineral fertilizer	no. ino
+BAF.no_3	A129	A030	Babushka	9	Mineral fertilizer	no. ino
+RNC10.1_1	A212	A046	RGT	1	Chitin	10-1
+RNC10.1_2	A213	A047	RGT	1	Chitin	10-1
+RNC10.1_3	A214	A048	RGT	1	Chitin	10-1
+RNC10.3_1	A217	A049	RGT	3	Chitin	10-3
+RNC10.3_2	A219	A050	RGT	3	Chitin	10-3
+RNC10.3_3	A220	A051	RGT	3	Chitin	10-3
+RNC10.5_1	A221	A052	RGT	5	Chitin	10-5
+RNC10.5_2	A222	A053	RGT	5	Chitin	10-5
+RNC10.5_3	A225	A054	RGT	5	Chitin	10-5
+RNC10.7_1	A227	A055	RGT	7	Chitin	10-7
+RNC10.7_2	A228	A056	RGT	7	Chitin	10-7
+RNC10.7_3	A229	A057	RGT	7	Chitin	10-7
+RNC.no_1	A231	A058	RGT	9	Chitin	no. ino
+RNC.no_2	A233	A059	RGT	9	Chitin	no. ino
+RNC.no_3	A234	A060	RGT	9	Chitin	no. ino
+RAF10.1_1	A237	A061	RGT	1	Mineral fertilizer	10-1
+RAF10.1_2	A238	A062	RGT	1	Mineral fertilizer	10-1
+RAF10.1_3	A240	A063	RGT	1	Mineral fertilizer	10-1
+RAF10.3_1	A241	A064	RGT	3	Mineral fertilizer	10-3
+RAF10.3_2	A242	A065	RGT	3	Mineral fertilizer	10-3
+RAF10.3_3	A244	A066	RGT	3	Mineral fertilizer	10-3
+RAF10.5_1	A247	A067	RGT	5	Mineral fertilizer	10-5
+RAF10.5_2	A249	A068	RGT	5	Mineral fertilizer	10-5
+RAF10.5_3	A250	A069	RGT	5	Mineral fertilizer	10-5
+RAF10.7_1	A251	A070	RGT	7	Mineral fertilizer	10-7
+RAF10.7_2	A252	A071	RGT	7	Mineral fertilizer	10-7
+RAF10.7_3	A254	A072	RGT	7	Mineral fertilizer	10-7
+RAF.no_1	A256	A073	RGT	9	Mineral fertilizer	no. ino
+RAF.no_2	A258	A074	RGT	9	Mineral fertilizer	no. ino
+RAF.no_3	A260	A075	RGT	9	Mineral fertilizer	no. ino
